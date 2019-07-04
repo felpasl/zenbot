@@ -82,6 +82,7 @@
     "node-telegram-bot-api": "^0.30.0",
     "number-abbreviate": "^2.0.0",
     "numbro": "github:highvelocityspace/numbro",
+    "objects-to-csv": "^1.2.2",
     "path": "^0.12.7",
     "poloniex.js": "1.0.1",
     "popper.js": "^1.14.3",
